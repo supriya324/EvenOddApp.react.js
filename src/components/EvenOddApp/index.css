@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #334155, #bfe9ff);
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.description {
+  font-size: 10px;
+  font-family: 'Roboto';
+}
+.button {
+  border-radius: 6px;
+  color: #0f172a;
+  padding: 7px;
+}
